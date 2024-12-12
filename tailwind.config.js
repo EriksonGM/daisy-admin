@@ -50,6 +50,6 @@ export default {
     ],
   },
   plugins:[typography,daisyui],
-  darkMode: ['selector', '[data-mode="dark"]'],
+  darkMode: ['class','selector', '[data-mode="dark"]'],
 }
 
