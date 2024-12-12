@@ -4,13 +4,16 @@
   "type": "module",
   "scripts": {
     "build": "nuxt build",
-    "dev": "nuxt dev",
+    "dev": "nuxt dev --host",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@tabler/icons-webfont": "^3.24.0",
+    "@tailwindcss/typography": "^0.5.15",
     "nuxt": "^3.14.1592",
+    "sweetalert2": "^11.14.5",
     "vue": "latest",
     "vue-router": "latest"
   },
