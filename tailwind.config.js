@@ -49,7 +49,6 @@ export default {
       },
     ],
   },
-  plugins:[typography,daisyui],
-  darkMode: ['class','selector', '[data-mode="dark"]'],
+  plugins:[typography,daisyui]
 }
 

@@ -570,7 +570,6 @@ usePageHeader('Home', 'ti ti-home')
             320 USD
           </td>
         </tr>
-
         <tr>
           <td class="w-0"><input type="checkbox" class="checkbox" /></td>
           <td>

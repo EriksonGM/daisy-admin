@@ -22,9 +22,8 @@ useHead({
           <i class="ti ti-menu-2 text-3xl"></i>
         </label>
         <div class="grow">
-         <h1 class="lg:text-2xl lg:font-light">
-            <i class="ti text-xl" id="page-icon"></i>
-            <span id="page-title"></span>
+         <h1 class="lg:text-2xl lg:font-light" id="page-header">
+
           </h1>
         </div>
         <LightMode/>
