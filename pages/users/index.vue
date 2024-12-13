@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import {usePageHeader} from "~/composables/usePageHeader";
-import Card from "~/components/ui/Card.vue";
+import Card from "~/components/ui/UiCard.vue";
 
 usePageHeader('Utilizadores', 'ti ti-users')
 </script>
